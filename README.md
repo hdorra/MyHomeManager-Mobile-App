@@ -25,6 +25,10 @@ https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/71e0e8fb-00df
 
 https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/2522368e-5f5c-47ff-8a91-b91d50639e59
 
+>Demo - Chat between members within task details
+
+https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/74f80739-20ec-44bf-8420-9db645429b4f
+
 3. Member Subscription Model​
 - Invite via email members to this home and assign tasks to them.​
 - A member can unsubscribe themselves if they no longer want to be a member of the home.​
