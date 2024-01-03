@@ -61,7 +61,8 @@ https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/95f89f6c-86cf
 >Interact with comments with the members on assigned tasks.​
 >Upload multiple images per task.​
 >Assign due dates to stay on track.​
->Status updates
+<img width="700" alt="image" src="https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/8dad9e8a-2a46-42a7-836b-8002fec4f651">
+
 
 # How To Use
 
