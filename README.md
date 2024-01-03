@@ -32,11 +32,17 @@ https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/2522368e-5f5c
 - See the status of that invite as pending or accepted. ​
 - Can click on the name and unsubscribe them from a home and won't lose historical information from that user.​
 
->Demo - Add A Member
+>Demo - Adding A Member:
 
->Demo - Removing A Member
+https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/c0641364-f655-4b1a-8ab0-828845c426b9
 
->Demo - Member Unsubscribing
+>Demo - Removing A Member:
+
+https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/a6050f09-b1fe-492a-9246-289375840008
+
+>Demo - Member Unsubscribing:
+
+https://github.com/hdorra/MyHomeManager-Mobile-App/assets/13279722/95f89f6c-86cf-42c7-9ea3-57f544d16449
 
 4. Easy to use interface​
 - Homes:​
